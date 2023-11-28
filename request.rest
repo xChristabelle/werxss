@@ -1,0 +1,4 @@
+POST http://localhost:5001/api/authenticate/authenticate-chat
+Content-Type: application/json
+
+{"username": "ivan"}
